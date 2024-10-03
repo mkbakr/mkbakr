@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=6cc644&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+MaryKate+Baker%2C+;Welcome+to+my+README" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=ffc168&background=6cc644&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+MaryKate+Baker%2C+;Welcome+to+my+README" alt="Typing SVG" /></a>
 
 # Hello, Welcome to My Github
 
