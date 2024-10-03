@@ -7,6 +7,6 @@
 ## Interests
 ### Board games, Gardening, Watching movies
 
-## A Dataset of Interest 
+## Datasets of Interest 
 ### I found the [Smithsonian Institution Global Volcanism Program](https://volcano.si.edu/).
 ### Due to my interest in board games, I also found [awesome-board-games](https://github.com/edm00se/awesome-board-games).
